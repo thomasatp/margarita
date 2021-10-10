@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/margarita/static/css/main.8ce4874e.chunk.css",
+    "main.js": "/margarita/static/js/main.f163e568.chunk.js",
+    "main.js.map": "/margarita/static/js/main.f163e568.chunk.js.map",
+    "runtime-main.js": "/margarita/static/js/runtime-main.fdaf6d70.js",
+    "runtime-main.js.map": "/margarita/static/js/runtime-main.fdaf6d70.js.map",
+    "static/js/2.d69098c1.chunk.js": "/margarita/static/js/2.d69098c1.chunk.js",
+    "static/js/2.d69098c1.chunk.js.map": "/margarita/static/js/2.d69098c1.chunk.js.map",
+    "static/js/3.28c54c8b.chunk.js": "/margarita/static/js/3.28c54c8b.chunk.js",
+    "static/js/3.28c54c8b.chunk.js.map": "/margarita/static/js/3.28c54c8b.chunk.js.map",
+    "index.html": "/margarita/index.html",
+    "static/css/main.8ce4874e.chunk.css.map": "/margarita/static/css/main.8ce4874e.chunk.css.map",
+    "static/js/2.d69098c1.chunk.js.LICENSE.txt": "/margarita/static/js/2.d69098c1.chunk.js.LICENSE.txt",
+    "static/media/basket.178724fd.svg": "/margarita/static/media/basket.178724fd.svg",
+    "static/media/margarita.43c5c287.svg": "/margarita/static/media/margarita.43c5c287.svg",
+    "static/media/miniQuit.26b83c67.svg": "/margarita/static/media/miniQuit.26b83c67.svg",
+    "static/media/minus.ab0c1c86.svg": "/margarita/static/media/minus.ab0c1c86.svg",
+    "static/media/plus.e8253e89.svg": "/margarita/static/media/plus.e8253e89.svg",
+    "static/media/quit.ba087d61.svg": "/margarita/static/media/quit.ba087d61.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdaf6d70.js",
+    "static/js/2.d69098c1.chunk.js",
+    "static/css/main.8ce4874e.chunk.css",
+    "static/js/main.f163e568.chunk.js"
+  ]
+}
