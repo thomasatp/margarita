@@ -1,0 +1,30 @@
+.recomandation {
+    position: fixed;
+    z-index: 101;
+    bottom: 16px;
+    background: #0CC276;
+    display: flex;
+    padding: 16px;
+    max-width: 360px;
+    border: 1px solid #111;
+    overflow: hidden;
+    transition: ease-in .3s;
+
+    ::before
+     {
+         content: '';
+         width: 4px;
+         height: 100%;
+         background: #0CC276;
+         position: absolute;
+         top: 0;
+         left: 0;
+         
+     }
+
+
+    p {
+        font-size: 1.6rem;
+        margin-right: 16px;
+    }
+}

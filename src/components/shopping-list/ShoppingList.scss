@@ -1,0 +1,76 @@
+.ShoppingContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    padding: 0;
+    width: 100%;
+
+    form {
+
+        max-width: 100%;
+        padding: 1.6rem;
+        display: flex;
+        justify-content: center;
+
+        .radio {
+            display: flex;
+            padding-left: 16px;
+            padding-right: 16px;
+            label {
+                display: flex;
+                align-items: center;
+                font-size: 1.6rem;
+                height: 32px;
+                font-weight: bold;
+                padding-left: 1.6rem;
+                padding-right: 1.6rem;
+                background: #fff;
+                color: #111;
+                border-radius: 1.6rem;
+                cursor: pointer;
+                align-self: flex-start;
+                transition: ease-in 0.3s;
+                &:hover {
+                    background: #F5F5F5;
+                }
+
+            }
+            input {
+                display: none;
+            }
+            input:checked + label {
+                background: #111;
+                color: #fff;
+            }
+
+        }
+    }
+}
+
+.ShoppingList {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    width: 100%;
+    border-top: 1px solid #111;
+}
+
+@media (max-width: 768px) {
+    .ShoppingContainer {
+        form {
+            overflow-x: scroll;
+            padding: 1.6rem 0;
+            justify-content: flex-start;
+
+            &::-webkit-scrollbar {display: none;}
+    
+            .radio {
+                white-space: nowrap;
+    
+            }
+        }
+    }
+}

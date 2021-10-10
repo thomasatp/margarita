@@ -1,0 +1,46 @@
+.Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 32px;
+    height: 80px;
+    background: #fff;
+    z-index: 100;
+    border-bottom: 1px solid #111;
+
+
+    .logo {
+        display: flex;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .App-logo {
+        width: 48px;
+    height: 48px;
+        margin-right: .8rem;
+        animation: spin infinite 20s linear;
+    }
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+@media (max-width: 768px) {
+    .Header {
+        padding: 0 16px;
+    }
+
+}
