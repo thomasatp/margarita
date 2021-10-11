@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/margarita/static/css/main.8ce4874e.chunk.css",
-    "main.js": "/margarita/static/js/main.f163e568.chunk.js",
-    "main.js.map": "/margarita/static/js/main.f163e568.chunk.js.map",
+    "main.js": "/margarita/static/js/main.13aa5885.chunk.js",
+    "main.js.map": "/margarita/static/js/main.13aa5885.chunk.js.map",
     "runtime-main.js": "/margarita/static/js/runtime-main.fdaf6d70.js",
     "runtime-main.js.map": "/margarita/static/js/runtime-main.fdaf6d70.js.map",
     "static/js/2.d69098c1.chunk.js": "/margarita/static/js/2.d69098c1.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.fdaf6d70.js",
     "static/js/2.d69098c1.chunk.js",
     "static/css/main.8ce4874e.chunk.css",
-    "static/js/main.f163e568.chunk.js"
+    "static/js/main.13aa5885.chunk.js"
   ]
 }
