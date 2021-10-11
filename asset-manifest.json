@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/margarita/static/css/main.8ce4874e.chunk.css",
+    "main.css": "/margarita/static/css/main.067e982e.chunk.css",
     "main.js": "/margarita/static/js/main.13aa5885.chunk.js",
     "main.js.map": "/margarita/static/js/main.13aa5885.chunk.js.map",
     "runtime-main.js": "/margarita/static/js/runtime-main.fdaf6d70.js",
@@ -10,7 +10,7 @@
     "static/js/3.28c54c8b.chunk.js": "/margarita/static/js/3.28c54c8b.chunk.js",
     "static/js/3.28c54c8b.chunk.js.map": "/margarita/static/js/3.28c54c8b.chunk.js.map",
     "index.html": "/margarita/index.html",
-    "static/css/main.8ce4874e.chunk.css.map": "/margarita/static/css/main.8ce4874e.chunk.css.map",
+    "static/css/main.067e982e.chunk.css.map": "/margarita/static/css/main.067e982e.chunk.css.map",
     "static/js/2.d69098c1.chunk.js.LICENSE.txt": "/margarita/static/js/2.d69098c1.chunk.js.LICENSE.txt",
     "static/media/basket.178724fd.svg": "/margarita/static/media/basket.178724fd.svg",
     "static/media/margarita.43c5c287.svg": "/margarita/static/media/margarita.43c5c287.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.fdaf6d70.js",
     "static/js/2.d69098c1.chunk.js",
-    "static/css/main.8ce4874e.chunk.css",
+    "static/css/main.067e982e.chunk.css",
     "static/js/main.13aa5885.chunk.js"
   ]
 }
